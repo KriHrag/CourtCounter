@@ -52,7 +52,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="d23af777f82b962cf392e461ddbac39467f868cd">
+        sha1="ebc5eb9bf74dac7d8f2a826b551a293042de24bb">
         <dex dex="C:\Users\Student\AndroidStudioProjects\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f9fc19a9e12c4dedcabeb172277b505c558a5cb0\classes.dex" />
     </item>
     <item
@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="6bb633c11ea1ffa07506a5451f93706405f980ce">
+        sha1="20d8d38f46745e344e7b201e620f3bdf2f9bb1cf">
         <dex dex="C:\Users\Student\AndroidStudioProjects\CourtCounter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f5970d7070b93c51f0cb43f528373cddce8145f6\classes.dex" />
     </item>
     <item
